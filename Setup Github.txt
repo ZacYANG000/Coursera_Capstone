@@ -1,0 +1,11 @@
+https://medium.com/@aklson_DS/how-to-properly-setup-your-github-repository-windows-version-ea596b398b
+
+git clone <git@github.com:ZacYANG000/Coursera_Capstone.git>
+mkdir /d/Onedrive/IBMData/Course9_Capstone/projects
+cd /d/Onedrive/IBMData/Course9_Capstone/projects/Coursera_Capstone
+
+每次打开电脑需要
+git init
+然后cd
+
+ctrl+c can exit >
