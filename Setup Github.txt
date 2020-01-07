@@ -9,3 +9,5 @@ git init
 然后cd
 
 ctrl+c can exit >
+
+To save the file, press ESC and then type “:wq” and hit Enter to save and return to the Git Bash terminal.
